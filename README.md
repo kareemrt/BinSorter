@@ -7,3 +7,4 @@
 # 1.2 adds editing extensions and buckets. WIP: Moving edit/config functionality to .ini with file I/O
 # 1.3 fixes a bug where the program would crash when a file already existed
 # 1.4 adds reversing to a sort, optimizes code by factoring down and enhancing readability
+# 1.5 factors down the print function, adds implimentation for harvesting image metadata
